@@ -22,6 +22,9 @@
 
 * ## TUTORIAL 📌
 
+
+* ## PACTH HEROKU NEXT UPDATE AKAN DATANG YA GUYS
+
 Forks Github Ini
  [`Klik Sini Untuk Fork Project`](https://github.com/AlipBot/api-alpis/fork)<br>
 
